@@ -1,0 +1,11 @@
+{
+    "name": "Default turtletopia R check",
+    "description": "Default check for R packages.",
+    "iconName": "octicon play-16",
+    "categories": [ "R" ],
+    "filePatterns": [
+        "^DESCRIPTION$",
+        "^NAMESPACE$",
+        "^tests/testthat.R$"
+    ]
+}
